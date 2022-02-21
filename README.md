@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/edC973xZRBMdCzTuVl/giphy.gif" width="150" align="left">
+
 
 ### Hi there,
 Read my writeups https://yufongg.github.io
